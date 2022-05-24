@@ -6,6 +6,8 @@ Dataset:
 
 https://www.kaggle.com/datasets/nikhiljohnk/news-popularity-in-multiple-social-media-platforms?select=train_file.csv
 
+The license for this dataset is a Creative Commons Attribution 4.0 International license (CC BY 4.0)
+
 Related Works:
 
 https://www.hpl.hp.com/research/scl/papers/newsprediction/pulse.pdf
